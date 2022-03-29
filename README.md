@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshat Pandey (You can call me AP)
-- 👀 I’m interested in computer programming, games and AI.
-- 🌱 I’m currently learning C# and Unity!
-- 💞️ I’m looking to collaborate on any type of game/engine/program.
+- 👀 I’m interested in computer programming, automation, games and AI.
+- 🌱 I’m currently learning Tensorflow, C# and working with API's
+- 💞️ I’m looking to collaborate on any type of program that'd help me expand my knowledge.
 - 📫 How to reach me:
   - Mail: akshatpandeymyself@gmail.com
   - Instagram: @akshatpandeyanother
