@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Pandey (You can call me AP)
 - 👀 I’m interested in computer web development, UI/UX, and automation 👀
-- 🌱 I’m currently developming my skills in web development and machine learning
+- 🌱 I’m currently developming my skills in web and app development, and machine learning
 - 💞️ I’m looking to collaborate on any type of program that'd help me expand my knowledge.
 - 📫 How to reach me:
     - Mail: akshatpandeymyself@gmail.com
