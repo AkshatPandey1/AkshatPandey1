@@ -6,3 +6,4 @@
     - Mail: akshatpandeymyself@gmail.com
     - Instagram: @akshatpandeyanother
     - Discord: AP#2668
+    - LinkedIn: [AkshatPandey1](https://www.linkedin.com/in/AkshatPandey1/)
