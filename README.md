@@ -3,7 +3,7 @@
 - 🌱 I’m currently developming my skills in web and app development, and machine learning
 - 💞️ I’m looking to collaborate on any type of program that'd help me expand my knowledge.
 - 📫 How to reach me:
-    - Mail: akshatpandeymyself@gmail.com
+    - Mail: apandey3@ualberta.ca
     - Instagram: @akshatpandeyanother
     - Discord: AP#2668
     - LinkedIn: [AkshatPandey1](https://www.linkedin.com/in/AkshatPandey1/)
