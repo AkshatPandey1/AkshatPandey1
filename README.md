@@ -6,4 +6,4 @@
 - 📫 **How to reach me:**  
     - **Mail:** akshatpandeymyself@gmail.com  
     - **LinkedIn:** [AkshatPandey1](https://www.linkedin.com/in/akshatpandey1/)
-    - **Portfolio:** [https://akshatpandey1.github.io/web-portfolio/](https://akshatpandey1.github.io/web-portfolio/)
+    - **Portfolio:** [https://akshatpandey.com](https://akshatpandey.com/)
